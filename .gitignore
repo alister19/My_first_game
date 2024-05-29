@@ -1,0 +1,15 @@
+bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+*.DS_Store
+.vscode/
+wwwroot/css/app.css
+wwwroot/css/app.min.css
+wwwroot/js/app.js
+wwwroot/js/app.min.js
+*.tmp
+*.temp
